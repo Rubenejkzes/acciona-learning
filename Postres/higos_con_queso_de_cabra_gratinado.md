@@ -6,7 +6,7 @@ Paso 1:
 Para hacer estos higos con queso de cabra gratinado lo primero que vamos a hacer es preparar la fruta. Limpia los higos con la ayuda de un paño limpio y con mucha suavidad, pues se trata de una fruta muy delicada. Después, corta los higos por la mitad, longitudinalmente.
 
 Paso 2:
-asf´kasndfasdkfnasdkn
+cosas cosas cosssssas
 
 Corta el rulo de queso de cabra en medallones no muy gordos… como de un centímetro o algo menos. Corta tantos medallones como medios higos tengas.
 
