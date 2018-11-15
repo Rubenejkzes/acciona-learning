@@ -1,11 +1,15 @@
-﻿# learning-git
+﻿learning-git
+=======================
 Repositorio de recetas con fines didácticos
 
-Recetas propuestas
-==================
+Aquí hay recetas de
+===================
 
-* [Ensaladas](Ensaladas/)
+* [Bebidas](Bebidas/)
+	- Cerveza artesana
 
-	- Ensalada Caprese
-	- Ensalada de garbanzos y hortalizas
-
+* [Carne & aves](Carne & aves/)
+	- Pollo a la cerveza
+	- Pollo con verdura
+	- Lentejas
+	- Morteruelo
