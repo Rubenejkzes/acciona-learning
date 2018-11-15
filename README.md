@@ -9,6 +9,16 @@ Recetas propuestas
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
 
+* [Tortillas](Tortillas/)
+	- Patatas
+	- De Patatas Vegana 
+	- Patatas cocidas
+	- Francesa
+	- Chorizo
+	- Tuning
+	- Espinacas
+	- Atun
+
 * [Guisos](Guisos/)
 	- Recetas de Git
 	- Arroz Caldoso
@@ -48,15 +58,7 @@ Recetas propuestas
 	- Ratatouille
 	- Patatas Cocidas
 
-* [Tortillas](Tortillas/)
-	- Patatas
-	- De Patatas Vegana 
-	- Patatas cocidas
-	- Francesa
-	- Chorizo
-	- Tuning
-	- Espinacas
-	- Atun
+
 
 Para colaborar
 --------------
