@@ -86,14 +86,3 @@ Incluimos nuevas recetas
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
-
-
-* [Verduras](Verduras/)
-
-Para el caso de las verduras, procederemos de la siguiente manera:
-
-	- Se compran las verduras
-	- Nada más llegar a casa, le das las verduras a tu conejo o al vegetariano más cercano
-	- Vas al burger y te coges un menú  Whopper con doble de grasa
-	- Y para beber: Albóndigas!
-
