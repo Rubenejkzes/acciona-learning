@@ -1,4 +1,4 @@
-﻿learning-git
+﻿Learning git
 =======================
 Repositorio de recetas con fines didácticos
 
